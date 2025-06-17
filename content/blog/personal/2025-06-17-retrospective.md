@@ -2,7 +2,7 @@
 title: Retrospective on OSD6/700 Course
 description: This is a post about my opinions on the course OSD600 and OSD700 at Seneca Polytechnic
 date: 2025-06-17
-tags: ["osd600", "osd700", "personal"]
+tags: ["osd600", "osd700", "personal", "TEST"]
 ---
 
 # Post Mortem
