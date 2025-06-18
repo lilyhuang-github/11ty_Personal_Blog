@@ -1,7 +1,7 @@
 {
-	"name": "eleventy-base-blog",
-	"version": "9.0.0",
-	"description": "A starter repository for a blog web site using the Eleventy site generator.",
+	"name": "Rat Blog",
+	"version": "0.0.1",
+	"description": "A blog for my rat needs.",
 	"type": "module",
 	"scripts": {
 		"build": "npx @11ty/eleventy",
@@ -16,12 +16,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/11ty/eleventy-base-blog.git"
+		"url": "git@github.com:lilyhuang-github/11ty_Personal_Blog.git"
 	},
 	"author": {
-		"name": "Zach Leatherman",
-		"email": "zachleatherman@gmail.com",
-		"url": "https://zachleat.com/"
+		"name": "Lily Huang",
+		"email": "",
+		"url": ""
 	},
 	"license": "MIT",
 	"engines": {
