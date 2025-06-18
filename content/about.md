@@ -4,6 +4,7 @@ const eleventyNavigation = {
 	order: 3
 };
 ---
+
 # About
 
 I am a rat that writes stuff.

@@ -7,4 +7,5 @@ export default {
 		name: "Lily V.S. Huang",
 		url: "https://example.com/about-me/",
 	},
+	logo:"ratbloglogo.png"
 };
