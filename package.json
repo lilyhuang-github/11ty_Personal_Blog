@@ -1,6 +1,6 @@
 {
 	"name": "Rat Blog",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "A blog for my rat needs.",
 	"type": "module",
 	"scripts": {
