@@ -1,6 +1,6 @@
 {
 	"name": "Rat Blog",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "A blog for my rat needs.",
 	"type": "module",
 	"scripts": {
@@ -12,7 +12,6 @@
 		"debug": "cross-env DEBUG=Eleventy* npx @11ty/eleventy",
 		"debugstart": "cross-env DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
 		"benchmark": "cross-env DEBUG=Eleventy:Benchmark* npx @11ty/eleventy"
-		
 	},
 	"repository": {
 		"type": "git",
